@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAA88902-FFA6-4B29-BBBC-D697D00D6894}|TP1\\TP1.dtproj|C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\TP1\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{EAA88902-FFA6-4B29-BBBC-D697D00D6894}|TP1\\TP1.dtproj|solutionrelative:TP1\\Project.params||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAA88902-FFA6-4B29-BBBC-D697D00D6894}|TP1\\TP1.dtproj|C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\TP1\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
       "RelativeMoniker": "D:0:0:{EAA88902-FFA6-4B29-BBBC-D697D00D6894}|TP1\\TP1.dtproj|solutionrelative:TP1\\Package.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
     }
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Project.params [Design]",
+              "DocumentMoniker": "C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\TP1\\Project.params",
+              "RelativeDocumentMoniker": "TP1\\Project.params",
+              "ToolTip": "C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\TP1\\Project.params [Design]",
+              "RelativeToolTip": "TP1\\Project.params [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T02:13:30.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Package.dtsx [Design]",
               "DocumentMoniker": "C:\\Users\\marcio\\Documents\\GitHub\\ISI\\TP1\\TP1\\Package.dtsx",
               "RelativeDocumentMoniker": "TP1\\Package.dtsx",
